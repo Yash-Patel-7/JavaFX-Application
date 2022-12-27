@@ -17,12 +17,13 @@ Meanwhile, the compiled output files will be generated in the `out` folder by de
 
 > - `JavaFX 19 SDK:` https://gluonhq.com/products/javafx/
 
-## Important Documentation for JavaFX Non-modular from IntelliJ.
+## Important Documentation for JavaFX Non-Modular from IntelliJ.
 
 > - `JavaFX IntelliJ:` https://openjfx.io/openjfx-docs/
 
 ## Important Notes
 
-> - `Photos Application Requirements`: https://www.cs.rutgers.edu/courses/213/classes/fall_2022_venugopal/photos/photos.html
+> - `Photos Application:` This is an Advanced Photos Library that allows for the storage and management of albums as well as offers a `search functionality` that is able to retrieve photos by `date taken` or `tags`
+
 
 
