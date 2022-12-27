@@ -1,0 +1,9 @@
+model
+photos
+stages.primary.admin
+stages.primary.albums
+stages.primary.edit
+stages.primary.main
+stages.primary.photoslist
+stages.primary.search
+stages.viewphoto.main
